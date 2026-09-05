@@ -8,7 +8,6 @@ The course is being redesigned for Fall 2026. New week-based notebooks:
   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/2026/w01_numpy.ipynb)
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w01_numpy.ipynb)
 
-Older notebooks from previous editions are kept below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/HEAD)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel)
