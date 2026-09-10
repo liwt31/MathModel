@@ -10,6 +10,9 @@ Notebooks for **MAT3300 Mathematical Modeling** (Fall 2026, redesigned course).
 - **Week 1 — Python and NumPy basics** — [w01_numpy.ipynb](w01_numpy.ipynb): Python and Jupyter from zero, NumPy arrays, broadcasting, vectorization, and a first Monte Carlo exercise.
   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/2026/w01_numpy.ipynb)
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w01_numpy.ipynb)
+- **Week 2 — Discrete dynamics and the modeling process** — [w02_discrete.ipynb](w02_discrete.ipynb): the six-step modeling process on the yeast data, equilibria and stability, least-squares fitting, the car-rental system, the competitive hunter model, and the logistic map's route to chaos.
+  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/2026/w02_discrete.ipynb)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w02_discrete.ipynb)
 
 ## How to run
 
