@@ -19,6 +19,9 @@ Notebooks for **MAT3300 Mathematical Modeling** (Fall 2026, redesigned course). 
 - **Week 4 — Simulation modeling** — [w04_simulation.ipynb](w04_simulation.ipynb): Monte Carlo for areas and probabilities, the inverse-CDF trick, queueing simulation, stochastic growth, a traffic cellular automaton with an animation, and the 2024 MCM B search for a lost submersible.
   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w04_simulation.ipynb)
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w04_simulation.ipynb)
+- **Week 5 — Optimization** — [w05_optimization.ipynb](w05_optimization.ipynb): linear programs with `linprog`, corner points, shadow prices, integer programming with `milp`, unconstrained and constrained nonlinear optimization, and the 2022 MCM B Colorado River transportation LP.
+  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w05_optimization.ipynb)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w05_optimization.ipynb)
 
 ## How to run
 
