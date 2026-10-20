@@ -22,6 +22,9 @@ Notebooks for **MAT3300 Mathematical Modeling** (Fall 2026, redesigned course). 
 - **Week 5 — Optimization** — [w05_optimization.ipynb](w05_optimization.ipynb): linear programs with `linprog`, corner points, shadow prices, integer programming with `milp`, unconstrained and constrained nonlinear optimization, and the 2022 MCM B Colorado River transportation LP.
   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w05_optimization.ipynb)
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w05_optimization.ipynb)
+- **Week 6 — Modeling with graphs** — [w06_graphs.ipynb](w06_graphs.ipynb): graphs in `networkx`, Dijkstra's labels by hand, the two-jug puzzle as a state graph, dynamic programming, maximum flow and matching, and the 2025 ICM D Baltimore highway network after the Key Bridge collapse.
+  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w06_graphs.ipynb)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w06_graphs.ipynb)
 
 ## How to run
 
