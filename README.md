@@ -25,6 +25,9 @@ Notebooks for **MAT3300 Mathematical Modeling** (Fall 2026, redesigned course). 
 - **Week 6 — Modeling with graphs** — [w06_graphs.ipynb](w06_graphs.ipynb): graphs in `networkx`, Dijkstra's labels by hand, the two-jug puzzle as a state graph, dynamic programming, maximum flow and matching, and the 2025 ICM D Baltimore highway network after the Key Bridge collapse.
   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w06_graphs.ipynb)
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w06_graphs.ipynb)
+- **Week 7 — Modeling with a differential equation** — [w07_ode.ipynb](w07_ode.ipynb): exponential and logistic growth on the census and yeast data, repeated drug doses, numerical solution with `solve_ivp`, phase lines and harvesting, Euler's method and its instability, Runge–Kutta, a polluted lake, and the 2016 MCM A hot-bath model.
+  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w07_ode.ipynb)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w07_ode.ipynb)
 
 ## How to run
 
