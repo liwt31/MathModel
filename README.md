@@ -28,6 +28,9 @@ Notebooks for **MAT3300 Mathematical Modeling** (Fall 2026, redesigned course). 
 - **Week 7 — Modeling with a differential equation** — [w07_ode.ipynb](w07_ode.ipynb): exponential and logistic growth on the census and yeast data, repeated drug doses, numerical solution with `solve_ivp`, phase lines and harvesting, Euler's method and its instability, Runge–Kutta, a polluted lake, and the 2016 MCM A hot-bath model.
   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w07_ode.ipynb)
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w07_ode.ipynb)
+- **Week 8 — Modeling with systems of differential equations** — [w08_systems.ipynb](w08_systems.ipynb): phase portraits, rest points and the Jacobian, competing species, predator–prey cycles and harvesting, Lanchester combat, Euler's method for systems, the SIR epidemic, the Lorenz system, and the 2021 MCM A fungi decomposition model.
+  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w08_systems.ipynb)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w08_systems.ipynb)
 
 ## How to run
 
