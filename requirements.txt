@@ -4,3 +4,5 @@ matplotlib
 pandas
 networkx
 jupyterlab
+scikit-learn
+xgboost

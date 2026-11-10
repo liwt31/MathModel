@@ -31,6 +31,9 @@ Notebooks for **MAT3300 Mathematical Modeling** (Fall 2026, redesigned course). 
 - **Week 8 — Modeling with systems of differential equations** — [w08_systems.ipynb](w08_systems.ipynb): phase portraits, rest points and the Jacobian, competing species, predator–prey cycles and harvesting, Lanchester combat, Euler's method for systems, the SIR epidemic, the Lorenz system, and the 2021 MCM A fungi decomposition model.
   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w08_systems.ipynb)
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w08_systems.ipynb)
+- **Week 9 — Machine learning I** — [w09_ml.ipynb](w09_ml.ipynb): supervised learning on the diamond and breast-cancer data, training and test sets, cross-validation, decision trees by hand, random forests and gradient boosting, confusion matrix and ROC curve, feature importance, and the 2024 MCM C tennis-momentum model.
+  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w09_ml.ipynb)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w09_ml.ipynb)
 
 ## How to run
 
