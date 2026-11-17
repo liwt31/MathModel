@@ -34,6 +34,9 @@ Notebooks for **MAT3300 Mathematical Modeling** (Fall 2026, redesigned course). 
 - **Week 9 — Machine learning I** — [w09_ml.ipynb](w09_ml.ipynb): supervised learning on the diamond and breast-cancer data, training and test sets, cross-validation, decision trees by hand, random forests and gradient boosting, confusion matrix and ROC curve, feature importance, and the 2024 MCM C tennis-momentum model.
   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w09_ml.ipynb)
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w09_ml.ipynb)
+- **Week 10 — Machine learning II: neural networks** — [w10_nn.ipynb](w10_nn.ipynb): PyTorch tensors, the training workflow and classification (following chapters 00–02 of [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/)), backpropagation by hand, learning rates, then networks for diamond prices and handwritten digits with mini-batches, validation and early stopping.
+  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w10_nn.ipynb)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w10_nn.ipynb)
 
 ## How to run
 
