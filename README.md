@@ -37,6 +37,9 @@ Notebooks for **MAT3300 Mathematical Modeling** (Fall 2026, redesigned course). 
 - **Week 10 — Machine learning II: neural networks** — [w10_nn.ipynb](w10_nn.ipynb): PyTorch tensors, the training workflow and classification (following chapters 00–02 of [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/)), backpropagation by hand, learning rates, then networks for diamond prices and handwritten digits with mini-batches, validation and early stopping.
   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w10_nn.ipynb)
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w10_nn.ipynb)
+- **Week 11 — Machine learning III: convolutional neural networks** — [w11_cnn.ipynb](w11_cnn.ipynb): computer vision on FashionMNIST following chapter 03 of [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/) (baseline, non-linear model, TinyVGG CNN, confusion matrix, saving the model), then a convolution by hand, learned filters, data augmentation, rare classes and pretrained networks.
+  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liwt31/MathModel/blob/2026/w11_cnn.ipynb)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liwt31/MathModel/2026?filepath=w11_cnn.ipynb)
 
 ## How to run
 
